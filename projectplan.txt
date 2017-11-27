@@ -1,0 +1,23 @@
+*We all plan on working on all portions of the project together and editing each other's code as we go
+to obtain the most efficient version of code for the final project version.
+
+1) Identify the genes
+-> Blast the sequences
+-> download the results files
+-> format results files in UNIX to select best gene cadidates
+
+2) Obtain amino acid sequence of selected candidates
+-> Search protein database for aa sequence from top hits
+-> Download 10-20 aa sequences
+
+3) Turn our sequences into aa sequences
+-> Use python to write script that translates cDNA into aa
+
+4) Compare aa sequences from RNAseq and protein database
+-> Use muscle to align sequences
+-> Use hmmbuild to make HMM files
+-> Use hmm search to analyze similarities of aa sequences
+
+5) Visualize results
+-> Graph expression profiles
+-> Compare results to literature
