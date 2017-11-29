@@ -1,0 +1,1 @@
+cat 1SE3G42N01R-Alignment.txt | cut -f 1,5 | sort -k 1,1d -k 2,2n
