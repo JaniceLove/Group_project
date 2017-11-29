@@ -23,10 +23,11 @@ for line in codons:
     else:
         dict [cols[1]] = cols[0]
 
+stop_codons = ('TAA', 'TGA', 'TAG')
 #find first start codon in sequences provided------------------------------------------------------- 
 from itertools import takewhile
 
-def DNA_to_protein (sequence, dict, stop_codons = ('TAA', 'TGA', 'TAG')):       
+def DNA_to_protein (sequence, dict, stop_codons):       
     start = sequence.find('ATG')
 
     # Take sequence from the first start codon
@@ -42,20 +43,25 @@ def DNA_to_protein (sequence, dict, stop_codons = ('TAA', 'TGA', 'TAG')):
     coding_sequence  =  takewhile(lambda x: x not in stop_codons and len(x) == 3 , codons)
 
     # Translate and join into string
-    protein_sequence = ''.join([codontable[codon] for codon in coding_sequence])
+    protein_sequence = ''.join([dict[codon] for codon in coding_sequence])
 
     # This line assumes there is always stop codon in the sequence
     return "{0}_".format(protein_sequence)
 #-------------------------------------------------------------------------------------------
 outfile = open("ctrl_1_protein", 'w')
 
-header = ''
-sequence = ''
+header = 'header'
+sequence = 'sequence'
 for line in ctrl_1:
     line = line.strip()
-    if line[0] == ">":
-        line.write(outfile + "\n")
-        DNA_to_protein(sequence)
+    if ">" in line:
+        outfile.write(line + "\n")
+        DNA_to_protein(sequence, dict, stop_codons)
+    else:
+        sequence += line.strip()
+
+print header 
+DNA_to_protein(sequence, dict, stop_codons)
 
 
 
