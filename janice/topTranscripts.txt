@@ -1,0 +1,4 @@
+# Query: Transcript_1
+Transcript_1	gi|118130920|ref|NM_008182.3|	Transcript_1	NM_008182.3	100.000	854	0	0	1	854	2	855	0.0	1578
+# Query: Transcript_2
+Transcript_2	gi|142366209|ref|NM_080852.2|	Transcript_2	NM_080852.2	100.000	1752	0	0	1	1752	3	1754	0.0	3236
