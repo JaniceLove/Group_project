@@ -18,6 +18,8 @@ map = open("codonmap.txt", "r")
     
 #CDS = sequence between variable 1 and variable 2 points
 
+#****Or use for loop nested in while loop that exits when 'TAA' is next to replace****
+
 #for loop for 3 nucleotide letters in CDS
     #replace with amino acid letter
     #append to document
