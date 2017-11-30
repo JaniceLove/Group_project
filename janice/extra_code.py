@@ -12,7 +12,7 @@ def DNA_to_protein (sequence):
         sequence = ''
         
     return proteinsequence 
-
+#-------------------------------------------------------------------------
 
 header = ''
 sequence = ''
@@ -29,7 +29,7 @@ for line in ctrl_1:
 
 print header 
 DNA_to_protein(sequence)
-
+#--------------------------------------------------------------------------
 
 header = 'header'
 sequence = 'sequence'
@@ -39,4 +39,5 @@ for line in ctrl_1:
         outfile.write(line + "\n")
     else:
         sequence = DNA_to_protein(sequence, codonmap_dict, stop_codons, outfile)
-      
+#--------------------------------------------------------------------------------------
+

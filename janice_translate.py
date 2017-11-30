@@ -24,10 +24,9 @@ for line in codons:
         codonmap_dict [cols[1]] = cols[0]
 
 stop_codons = ['TAA', 'TGA', 'TAG']
-#find first start codon in sequences provided------------------------------------------------------- 
-from itertools import takewhile
 
-def DNA_to_protein (sequence, codonmap_dict, stop_codons, outfile):       
+##function to find first ATG, trim the sequence 
+def trimSeq (sequence, stop_codons):
     start = sequence.find('ATG')
     sequencestart = sequence[int(start):]
     stop = sequencestart.find('TAA' or 'TAG' or 'TGA')
@@ -40,42 +39,18 @@ def DNA_to_protein (sequence, codonmap_dict, stop_codons, outfile):
     codons = [trimmed_sequence[i:i+3] for i in range(0, len(trimmed_sequence), 3)]
     #print(len(codons))
     #print(trimmed_sequence)
-    #print(codons)
+    print(codons)
+#------------------------------------------------------------------------------------
 
-    # Take all codons until first stop codon
-    coding_sequence  =  takewhile(lambda x: x not in stop_codons and len(x) == 3, codons)
-    
-    for n in range(0,len(cds),3):
-        if cds[n:n+3] in codonmap_dict:
-            proteinsequence += codonmap_dict[cds[n:n+3]]
-            print proteinsequence
-        sequence = ''
-        
-    return proteinsequence
-
-    # Translate and join into string
-    protein_sequence = ''.join([codonmap_dict[codon] for codon in coding_sequence])
-    outfile.write(protein_sequence + "\n")
-
-    # This line assumes there is always stop codon in the sequence
-    #return protein_sequence
-#-------------------------------------------------------------------------------------------
-outfile = open("ctrl_1_protein", 'w')
-
-header = ''
-sequence = ''
+outfile = open ("ctrl_1_protein", 'w')
 for line in ctrl_1:
     line = line.strip()
     if ">" in line:
-        print header
-        DNA_to_protein (sequence, codonmap_dict, stop_codons, outfile)
-
-        sequence = ''
+        outfile.write(line + "\n")
     else:
-        sequence += line.strip()  
-        
-
-
+        line = sequence 
+        trimSeq (sequence, stop_codons)
+    
 
 
 
