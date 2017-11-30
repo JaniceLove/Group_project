@@ -29,3 +29,14 @@ for line in ctrl_1:
 
 print header 
 DNA_to_protein(sequence)
+
+
+header = 'header'
+sequence = 'sequence'
+for line in ctrl_1:
+    line = line.strip()
+    if ">" in line:
+        outfile.write(line + "\n")
+    else:
+        sequence = DNA_to_protein(sequence, codonmap_dict, stop_codons, outfile)
+      
