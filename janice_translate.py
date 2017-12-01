@@ -4,6 +4,7 @@
 
 #import packages
 import re 
+import pandas as pd 
 
 #open data files 
 ctrl_1 = open ("control1.fasta", 'r')
@@ -27,52 +28,38 @@ for line in codons:
     else:
         codonmap_dict [cols[1]] = cols[0]
 
-stop_codons = ['TAA', 'TGA', 'TAG']
-stop = re.compile(r'(TAA | TGA | TAG)')
+#stop_codons = ['TAA', 'TGA', 'TAG']
+#stop = re.compile(r'(TAA | TGA | TAG)')
 
-##function to find first ATG, trim the sequence 
-#use regex instead?
+##function to read fasta file 
+#def read_fasta (file):
 
-def trimSeq (sequence, stop):
-    #search for first occurence of 'ATG'
-    start = sequence.find('ATG')
-    
-    #Set sequence to start there
-    sequencestart = sequence[int(start):]
-     
-    
-    #Search for first stop codon 
-    end = stop.match(sequencestart)
-    
-    
-    #stop = sequencestart.find('TAA' or 'TAG' or 'TGA')
-    cds = str(sequencestart[:(end)])
-    
-    # Take sequence from the first start codon
-    trimmed_sequence = sequence[start:]
-    print trimmed_sequence 
 
-    return trimmed_sequence
-
-def codon_split (trimmed_sequence)
-    # Split it into triplets
-    codons = [trimmed_sequence[i:i+3] for i in range(0, len(trimmed_sequence), 3)]
-    #print(len(codons))
-    #print(trimmed_sequence)
-    print(codons)
-#------------------------------------------------------------------------------------
-
-outfile = open ("ctrl_1_protein", 'w')
+sequence = []
 for line in ctrl_1:
     line = line.strip()
-    if ">" in line:
-        outfile.write(line + "\n")
-    else:
-        sequence = line
+    if ">" in line: 
+        sequence.append (line)
+
+##function to find first start codon 
+sequence = sequenceStart.find('ATG')
+
+##function to search for stop codon: tried a variety of these, but can't get them to work. Why?? 
+stop = sequenceStart.match(r'TAA | TAG | TGA') #re.compile first, then search as object? OR re.search? 
 
 
+stop = re.compile (r'TAA|TAG|TGA')
+end = stop.match(sequenceStart)
 
-trimSeq (sequence, stop)
+#function to define cds (coding sequence)
+cds = str(sequenceStart[:(end)])
+
+##translate cds to protein sequence using codonmap_dict 
+#split cds sequence into codons 
+codons = [cds[i:i+3] for i in range(0, len(trimmed_sequence), 3)]
+
+##save the translated protein sequences to files 
+
 
 
 codons.close()        
