@@ -56,10 +56,8 @@ def translate_dna(sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')):
     
     #split sequence into codons 
     codons = [trimmed_sequence[i:i+3] for i in range(0, len(trimmed_sequence), 3)]
-    #print(len(codons))
-    #print(trimmed_sequence)
-    #print(codons)
-
+ 
+ 
     coding_sequence = takewhile(lambda x: x not in stop_codons and len(x) == 3 , codons)
     protein_sequence = ''.join([codonmap_dict[codon] for codon in coding_sequence])
 
@@ -116,8 +114,4 @@ for line in open("obese2.fasta", 'r'):
 outfile.close()
 #------------------------------------------------------------------------------------------------
 
-codons.close()        
-ctrl_1.close()
-ctrl_2.close()
-exp_1.close()
-exp_2.close()
+codons.close()
