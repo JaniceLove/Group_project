@@ -69,6 +69,7 @@ def translate_dna(sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')):
     return "{0}_".format(protein_sequence)
 #------------------------------------------------------------------------------------------
 
+#-----------------------------------------------------------------------------------------
 outfile = open ("ctrl_1_protein", 'w')
 for line in open("control1.fasta", 'r'):
 	line = line.strip()
@@ -79,6 +80,8 @@ for line in open("control1.fasta", 'r'):
 	    sequence = line 
 	    x = translate_dna (sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')) 
 	    outfile.write(x + "\n")
+outfile.close()
+#-----------------------------------------------------------------------------------------
 
 codons.close()        
 ctrl_1.close()
