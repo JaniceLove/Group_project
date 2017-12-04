@@ -1,0 +1,17 @@
+cat finalhmmout.txt | grep -e "Control1" | grep -e "transcript1" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "Control1" | grep -e "transcript2" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "Control1" | grep -e "transcript3" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "Control1" | grep -e "transcript5" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "Control2" | grep -e "transcript1" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "Control2" | grep -e "transcript2" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "Control2" | grep -e "transcript3" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "Control2" | grep -e "transcript5" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obese1" | grep -e "transcript1" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obsee1" | grep -e "transcript2" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obese1" | grep -e "transcript3" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obese1" | grep -e "transcript5" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obese2" | grep -e "transcript1" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obsee2" | grep -e "transcript2" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obese2" | grep -e "transcript3" | wc -l >> expression_counts
+cat finalhmmout.txt | grep -e "obese2" | grep -e "transcript5" | wc -l >> expression_counts
+
