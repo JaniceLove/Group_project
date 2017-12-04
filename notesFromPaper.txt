@@ -2,4 +2,5 @@ Ptpn5: upregulated
 Synpr: upregulated
 Slc7a12: downregulated
 Gsta2: downregulated 
-
+Lhx2: upregulated
+Atp12a: upregulated 
