@@ -1,0 +1,5 @@
+Ptpn5: upregulated
+Synpr: upregulated
+Slc7a12: downregulated
+Gsta2: downregulated 
+
