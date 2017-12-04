@@ -3,18 +3,14 @@
 #file for translating amino acids of provided sequences into proteinSequences
 
 #import packages
-import numpy as np 
-import pandas as pd 
+
 import re
 from sys import argv
 script, filename = argv
 from itertools import takewhile
 
-#open data files 
-ctrl_1 = open ("control1.fasta", 'r')
-ctrl_2 = open ("control2.fasta", 'r')
-exp_1 = open ("obese1.fasta", 'r')
-exp_2 = open ("obese2.fasta", 'r')
+##open data files 
+#opening files below for translating 
 
 codons = open ("codonmap.txt", 'r')
 
@@ -35,6 +31,7 @@ for line in codons:
 #stop_codons = ['TAA', 'TGA', 'TAG']
 #stop = re.compile(r'(TAA | TGA | TAG)')
 
+##Below is pseudocode and prelimminary ideas to tackle problems-------------
 ##function to read fasta file 
 ##function to find first start codon 
 sequence = sequenceStart.find('ATG')
@@ -48,7 +45,7 @@ cds = str(sequenceStart[:(end)])
 #split cds sequence into codons 
 codons = [cds[i:i+3] for i in range(0, len(trimmed_sequence), 3)]
 ##save the translated protein sequences to files 
-
+##-------------------------------------------------------------------------------
 ##-----------------------------------------------------------------------------------------
 def translate_dna(sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')):
     #find first start codon 
@@ -59,10 +56,8 @@ def translate_dna(sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')):
     
     #split sequence into codons 
     codons = [trimmed_sequence[i:i+3] for i in range(0, len(trimmed_sequence), 3)]
-    #print(len(codons))
-    #print(trimmed_sequence)
-    #print(codons)
-
+ 
+ 
     coding_sequence = takewhile(lambda x: x not in stop_codons and len(x) == 3 , codons)
     protein_sequence = ''.join([codonmap_dict[codon] for codon in coding_sequence])
 
@@ -82,9 +77,41 @@ for line in open("control1.fasta", 'r'):
 	    outfile.write(x + "\n")
 outfile.close()
 #-----------------------------------------------------------------------------------------
+outfile = open ("ctrl_2_protein", 'w')
+for line in open("control2.fasta", 'r'):
+	line = line.strip()
+	if ">" in line: 
+	    header = line 
+	    outfile.write(header + "\n")
+	else:
+	    sequence = line 
+	    x = translate_dna (sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')) 
+	    outfile.write(x + "\n")
+outfile.close()
+#----------------------------------------------------------------------------------------------
+outfile = open ("obese1_protein", 'w')
+for line in open("obese1.fasta", 'r'):
+	line = line.strip()
+	if ">" in line: 
+	    header = line 
+	    outfile.write(header + "\n")
+	else:
+	    sequence = line 
+	    x = translate_dna (sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')) 
+	    outfile.write(x + "\n")
+outfile.close()
+#-----------------------------------------------------------------------------------------------
+outfile = open ("obese2_protein", 'w')
+for line in open("obese2.fasta", 'r'):
+	line = line.strip()
+	if ">" in line: 
+	    header = line 
+	    outfile.write(header + "\n")
+	else:
+	    sequence = line 
+	    x = translate_dna (sequence, codonmap_dict, stop_codons = ('TAA', 'TGA', 'TAG')) 
+	    outfile.write(x + "\n")
+outfile.close()
+#------------------------------------------------------------------------------------------------
 
-codons.close()        
-ctrl_1.close()
-ctrl_2.close()
-exp_1.close()
-exp_2.close()
+codons.close()
