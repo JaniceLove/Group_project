@@ -1,9 +1,0 @@
-1)
-
-Online portion:
-*Put sequences from uniquetranscripts.fasta into NCBI blast website
-*Download megablast results as a .csv file
-
-Unix portion:
-
-
