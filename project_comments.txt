@@ -1,0 +1,12 @@
+-We noticed that your individual shell scripts for align, build, and search, 
+ while individually effiecient,
+may be more efficient if put into one shell script.
+
+-Translator code looked good!
+
+-Also make sure the comment lines are before/above the script that you are running
+so that the user doesn't get confused about what code does what.
+
+-For your graph ideas, you may want to change your variable names
+(currently 1,2,3,4) to more specific names (control1, control2, obese1, obese2).
+
