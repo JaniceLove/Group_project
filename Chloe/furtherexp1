@@ -1,0 +1,20 @@
+Further Exploration 1
+
+Megablast: fast, highly similar and larger sequences. Works best with over 95% matches.
+"word size"=28 base pairs
+most "100%" matches
+most same-species matches
+
+discontiguous megablast: more dissimilar than megablast, more sensitive than
+than blastn. Allows for mismatches, intended for cross-species comparisons.
+"word size"=11 or 12 bp
+least "100%" matches
+most cross-species matches
+
+blastn: somewhat similar sequences, find more distantly related sequences,
+slowest. Best for matching short sequences.
+"word size"=7-11 bp
+moderate number of "100%" matches
+more cross-species matches than megablast
+
+
