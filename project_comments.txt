@@ -10,3 +10,5 @@ so that the user doesn't get confused about what code does what.
 -For your graph ideas, you may want to change your variable names
 (currently 1,2,3,4) to more specific names (control1, control2, obese1, obese2).
 
+-Nice documentation plan: know who is doing what and when 
+
