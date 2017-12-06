@@ -1,0 +1,9 @@
+#feedback from peer review on Dec. 6, 2017
+#from Bailee's group 
+
+
+Documentation: make it obvious
+Jupyter notebook: w/ pseudo code and stuff
+Output: what it means
+translate.py: more comments 
+
