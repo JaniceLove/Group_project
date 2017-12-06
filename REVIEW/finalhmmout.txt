@@ -1,0 +1,752 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript1.ref      -           4.6e-141  461.1   0.4  5.1e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript1.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.transcript1.hits transcript1.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:07 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript2.ref      -           3.4e-198  649.7   5.5  3.8e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript2.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.transcript2.hits transcript2.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:07 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript3.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.transcript3.hits transcript3.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:08 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript4.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.transcript4.hits transcript4.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:08 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript5.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.transcript5.hits transcript5.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:08 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript6.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.transcript6.hits transcript6.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:08 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript1.ref      -           6.2e-141  461.1   0.4  6.9e-141  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript1.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.transcript1.hits transcript1.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:09 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript2.ref      -           4.7e-198  649.7   5.5  5.2e-198  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript2.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.transcript2.hits transcript2.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:09 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control2             -          transcript3.ref      -            4.7e-87  286.2  24.6   2.6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript3.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.transcript3.hits transcript3.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:10 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript4.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.transcript4.hits transcript4.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:10 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript5.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.transcript5.hits transcript5.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:11 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript6.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.transcript6.hits transcript6.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:11 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          transcript1.ref      -           1.4e-140  461.1   0.4  1.6e-140  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript1.ref      -           1.4e-140  461.1   0.4  1.6e-140  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript1.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.transcript1.hits transcript1.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:11 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript2.ref      -           1.1e-197  649.7   5.5  1.2e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript2.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.transcript2.hits transcript2.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:12 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese1               -          transcript3.ref      -            1.1e-86  286.2  24.6     6e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript3.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.transcript3.hits transcript3.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:13 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript4.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.transcript4.hits transcript4.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:13 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript5.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.transcript5.hits transcript5.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:14 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript6.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.transcript6.hits transcript6.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:14 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          transcript1.ref      -           1.4e-140  461.1   0.4  1.5e-140  461.0   0.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript1.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.transcript1.hits transcript1.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:15 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript2.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.transcript2.hits transcript2.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:15 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Obese2               -          transcript3.ref      -              1e-86  286.2  24.6   5.8e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript3.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.transcript3.hits transcript3.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:16 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript4.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.transcript4.hits transcript4.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:16 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript5.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.transcript5.hits transcript5.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:17 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript6.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.transcript6.hits transcript6.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:17 2017
+# [ok]
