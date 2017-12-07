@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+Control1             -          transcript3.ref      -            3.4e-87  286.2  24.6   1.9e-37  121.4   1.1   7.4   2   2   5   7   7   7   7 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript3.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.transcript3.hits transcript3.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:08 2017
+# [ok]
