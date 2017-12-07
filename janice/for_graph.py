@@ -7,18 +7,15 @@
 import pandas as pd 
 from plotnine import *
 
-data = pd.read_csv("expression_counts", delimiter=",")
+#read in data
+data = pd.read_csv("expCountNames", ',')
 
-ctrl1=0
-ctrl2=0
-obese1=0
-obese2=0
+#Give columns names for easier plotting 
+data.columns = ['Mouse',"Protein", "counts"]
+#print data 
 
-for i in  range (0, len(data),1):
-    if data.Data[i] == "ctrl1_T1":
-        ctrl1 = ctrl1 + data.expressioncount[i]
-##graph expression levels across the two ctrl and two obese datasets 
-#graph by transcript?
-T1_ctrl = 0
-T1_obese = 0
+
+p = ggplot(data,aes(x="Protein", y = "counts"))
+p + geom_point(data,aes(color='Mouse', na_rm=True)) + theme_classic()
+
 
