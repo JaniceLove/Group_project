@@ -1,4 +1,20 @@
-##Getting the correct plot
+##Working code
+
+#Load packages
+import numpy as np
+from plotnine import *
+
+#Load file
+
+hmmfile=pandas.read_csv("expression_counts", header=0, sep=",")
+
+#dodge plot
+
+(ggplot(hmmfile) + 
+  aes(x='treatment', y='counts', fill='transcript') +
+  geom_bar(stat='identity', position = 'dodge'))
+
+##########All other attempts##########################
 
 #Load packages
 import numpy as np
@@ -8,9 +24,9 @@ import matplotlib.pyplot as plt
 
 #hmmfile=pandas.read_csv("expression_counts", header=0, sep=",")
 n_groups = 4
-Tran1 = (12,20,2,1)
-Tran2 = (15,20,100,93)
-#T3 = 12,20,16,15
+Tran1 = (12, 20, 2, 1)
+Tran2 = (15, 20, 100, 93)
+Tran3 = (12, 20, 16, 15)
 #T4 = 0,0,0,0
 #T5 = 18,20,38,38
 #T6 = 0,0,0,0
@@ -18,26 +34,16 @@ Tran2 = (15,20,100,93)
 # create plot
 fig, ax = plt.subplots()
 index = np.arange(n_groups)
-bar_width = 0.35
+bar_width = 0.25
 opacity = 0.8
- 
-rects1 = plt.bar(index, Tran1, bar_width, 
-                alpha=opacity, 
-                color='b', 
-                label='Transcript1')
 
-rects2 = plt.bar(index, Tran2, bar_width, 
-                alpha=opacity, 
-                color='g', 
-                label='Transcript2')
-
-#plt.bar(index, T3, bar_width, color='lime', label='Transcript3')
-#plt.bar(index, T4, bar_width, color='yellow', label='Transcript4')
-#plt.bar(index, T5, bar_width, color='orange', label='Transcript5')
+rects1 = plt.bar(index, Tran1, bar_width, color='b', label='Transcript1')
+rects2 = plt.bar(index, Tran2, bar_width, color='g', label='Transcript2')
+rects3 = plt.bar(index, Tran3, bar_width, color='orange', label='Transcript3')
 #plt.bar(index, T6, bar_width, color='pink', label='Transcript6')
  
 plt.xlabel('Treatment')
-plt.ylabel('Expression')
+plt.ylabel('Counts_of_expression')
 plt.title('Expression')
 plt.xticks(index + bar_width, ('Ctrl1', 'Ctrl2', 'Obese1', 'Obese2'))
 plt.legend()
@@ -161,8 +167,6 @@ plt.legend()
  
 plt.tight_layout()
 plt.show()
-
-
 
 
 
