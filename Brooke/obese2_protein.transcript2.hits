@@ -1,0 +1,106 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          transcript2.ref      -             1e-197  649.7   5.5  1.1e-197  649.6   5.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript2.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.transcript2.hits transcript2.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:15 2017
+# [ok]

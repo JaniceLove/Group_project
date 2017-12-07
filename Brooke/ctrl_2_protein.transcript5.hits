@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          transcript5.ref      -                  0 2437.1  11.3         0 2436.9  11.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      transcript5.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.transcript5.hits transcript5.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke
+# Date:            Fri Dec  1 11:12:11 2017
+# [ok]
