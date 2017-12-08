@@ -1,0 +1,18 @@
+Study done by Kuhns and Pluznick (2017) found the following transcriptional changes:
+
+Ptpn5: upregulated
+Synpr: upregulated
+Slc7a12: downregulated
+Gsta2: downregulated 
+Lhx2: upregulated
+Atp12a: upregulated 
+
+In our RNA-seq data we found:
+
+Ptpn5: N/A
+Synpr: upregulated
+Slc7a12: unchanged
+Gsta2: downregulated 
+Lhx2: N/A
+Atp12a: upregulated 
+

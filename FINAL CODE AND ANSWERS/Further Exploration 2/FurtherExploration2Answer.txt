@@ -1,0 +1,13 @@
+#When building an HMM protein model using more distantly related animals, we predicted that we would not get the same quality of hits do to evolutionary divergence
+#We built an HMM protein model based upon Orca (sea mammal) protein sequence for Synpr 
+#We also built an HMM protein model based upon turle (non-mammalian) protein sequence for ATP12a
+#We compared the E-values for Synpr hits in the original mouse build versus orca build
+#The E-values were larger (lower quality hits) across control and obese RNA-seq files when using the orca build compared to the mouse build
+#However, when we compared the E-values for ATP12a hits in the original mouse build versus turtle build we noticed no change
+#All E-values for ATP12a were 0's across control and obese RNA-seq files when using both the turtle build and mouse build
+#We believe this to be an error due to an issue with our translator code
+#Our expected result would be that the non-mammalian (turtle) protein build would result in a more drastic sequence deviation, lower quality hits, and significantly higher E-values
+
+
+
+   

@@ -1,0 +1,19 @@
+
+#loop through each transcript,find line with highest % id, print to new file
+  
+d=wc -l 1SE3G42N01R-Alignment.txt
+for x in {1..d}
+do
+	if [awk '$1 == "Transcript $x"' 1SE3G42N01R-Alignment.txt]
+	then
+		a=0
+		for i in {1..d}
+		do
+			if [awk '$5 > a' 1SE3G42N01R-Alignment.txt]
+			then
+				a = awk $5
+			fi
+		done
+	#print line to new file
+done
+

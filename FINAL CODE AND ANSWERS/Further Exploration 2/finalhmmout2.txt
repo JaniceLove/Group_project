@@ -1,0 +1,446 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control1             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      atp12a.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.atp12a.hits atp12a.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:45 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control1             -          synpr.ref            -           7.9e-175  572.8   5.3  9.8e-175  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      synpr.ref.hmm
+# Target file:     ctrl_1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_1_protein.synpr.hits synpr.ref.hmm ctrl_1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:45 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Control2             -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      atp12a.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.atp12a.hits atp12a.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:45 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Control2             -          synpr.ref            -           1.1e-174  572.8   5.3  1.3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      synpr.ref.hmm
+# Target file:     ctrl_2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout ctrl_2_protein.synpr.hits synpr.ref.hmm ctrl_2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:45 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      atp12a.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.atp12a.hits atp12a.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:46 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synpr.ref            -           2.5e-174  572.8   5.3    3e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      synpr.ref.hmm
+# Target file:     obese1_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese1_protein.synpr.hits synpr.ref.hmm obese1_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:47 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+Obese2               -          atp12a.ref           -                  0 2096.9  11.5         0 2096.7  11.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      atp12a.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.atp12a.hits atp12a.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:48 2017
+# [ok]
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+Obese2               -          synpr.ref            -           2.4e-174  572.8   5.3  2.9e-174  572.5   5.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      synpr.ref.hmm
+# Target file:     obese2_protein
+# Option settings: hmmer-3.1b2-cygwin64/binaries/hmmsearch --tblout obese2_protein.synpr.hits synpr.ref.hmm obese2_protein 
+# Current dir:     /home/Brooke/Group_project/Brooke/FurtherExploration2
+# Date:            Thu Dec  7 22:26:48 2017
+# [ok]
